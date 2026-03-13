@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Calcule (1.12**5 - 1) * 100",
+    "expected_answer_contains": ["%"],
+    "tools": ["calculator"]
+  },
+  {
+    "question": "Com base nos documentos, como devo proceder em caso de roubo de item comprado? Cite fontes.",
+    "expected_answer_contains": ["Fontes", "source:"],
+    "tools": ["rag_lookup"]
+  }
+]
