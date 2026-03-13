@@ -1,4 +1,4 @@
-# 🤖 AI Operating System (AI-OS) — LangGraph 100%
+# 🤖 AI Operating System (AI-OS) — LangGraph
 
 ![Status](https://img.shields.io/badge/Status-Refatorado-brightgreen)
 ![Framework](https://img.shields.io/badge/Framework-LangGraph%20100%25-blueviolet)
